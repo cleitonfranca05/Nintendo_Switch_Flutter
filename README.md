@@ -9,6 +9,6 @@ A Comunidade Flutterando propos um desafio de refazer o layout do Nintendo Switc
 
 ## Result
 
-| Original ScreenShoot  |  My Result  |
+| ScreenShoot Original  |  Meu Resultado  |
 | ------------------- | ------------------- |
 |  <img src="/assets/images/template.png" height="500"> | <img src="/assets/images/resultado.PNG" height="500"> |
